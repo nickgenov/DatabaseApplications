@@ -1,0 +1,10 @@
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\02.DatabaseFirstSoftuni.exe.config
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\02.DatabaseFirstSoftuni.exe
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\02.DatabaseFirstSoftuni.pdb
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\EntityFramework.dll
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\EntityFramework.xml
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\obj\Debug\02.DatabaseFirstSoftuni.csprojResolveAssemblyReference.cache
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\obj\Debug\02.DatabaseFirstSoftuni.exe
+C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\02.DatabaseFirstSoftuni\obj\Debug\02.DatabaseFirstSoftuni.pdb
