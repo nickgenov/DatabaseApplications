@@ -1,1 +1,0 @@
-C:\Users\nikolaig\Documents\Visual Studio 2013\Projects\DB_Applications\01.EntityFrameworkIntro\01.DatabaseFirst\bin\Debug\01.DatabaseFirst.exe.config

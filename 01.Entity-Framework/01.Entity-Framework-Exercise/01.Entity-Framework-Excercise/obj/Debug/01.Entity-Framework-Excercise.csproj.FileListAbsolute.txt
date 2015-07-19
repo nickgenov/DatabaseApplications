@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\01.Entity-Framework-Excercise.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\01.Entity-Framework-Excercise.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\01.Entity-Framework-Excercise.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\obj\Debug\01.Entity-Framework-Excercise.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\obj\Debug\01.Entity-Framework-Excercise.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Exercise\01.Entity-Framework-Excercise\obj\Debug\01.Entity-Framework-Excercise.pdb
