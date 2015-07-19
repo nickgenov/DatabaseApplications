@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumSystem.Models", "ForumSystem.Models\ForumSystem.Models.csproj", "{0C03CC76-F55E-4F18-A549-17D6B6FC48A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumSystem.Data", "ForumSystem.Data\ForumSystem.Data.csproj", "{6AC6F05A-47CB-4656-B5EF-40B4D5F0B339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumSystem.ConsoleClient", "ForumSystem.ConsoleClient\ForumSystem.ConsoleClient.csproj", "{16D0DA1D-D2C2-46EA-A60F-3444398E4D5D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C03CC76-F55E-4F18-A549-17D6B6FC48A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C03CC76-F55E-4F18-A549-17D6B6FC48A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C03CC76-F55E-4F18-A549-17D6B6FC48A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C03CC76-F55E-4F18-A549-17D6B6FC48A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC6F05A-47CB-4656-B5EF-40B4D5F0B339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC6F05A-47CB-4656-B5EF-40B4D5F0B339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC6F05A-47CB-4656-B5EF-40B4D5F0B339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC6F05A-47CB-4656-B5EF-40B4D5F0B339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D0DA1D-D2C2-46EA-A60F-3444398E4D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D0DA1D-D2C2-46EA-A60F-3444398E4D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D0DA1D-D2C2-46EA-A60F-3444398E4D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D0DA1D-D2C2-46EA-A60F-3444398E4D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

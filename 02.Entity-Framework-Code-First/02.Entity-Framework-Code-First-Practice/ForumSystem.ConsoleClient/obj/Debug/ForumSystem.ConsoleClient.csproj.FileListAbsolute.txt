@@ -1,0 +1,14 @@
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.exe.config
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.exe
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.pdb
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.exe
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.pdb
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Data.dll
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Models.dll
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Data.pdb
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Models.pdb
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
