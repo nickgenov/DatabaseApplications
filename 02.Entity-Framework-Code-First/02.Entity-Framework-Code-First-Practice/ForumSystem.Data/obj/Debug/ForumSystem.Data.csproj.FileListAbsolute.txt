@@ -1,0 +1,1 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\obj\Debug\ForumSystem.Data.csprojResolveAssemblyReference.cache
