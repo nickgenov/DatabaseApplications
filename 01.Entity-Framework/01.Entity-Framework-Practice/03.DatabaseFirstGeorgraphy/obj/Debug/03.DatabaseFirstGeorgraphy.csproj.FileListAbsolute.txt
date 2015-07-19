@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\03.DatabaseFirstGeorgraphy.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\03.DatabaseFirstGeorgraphy.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\03.DatabaseFirstGeorgraphy.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\obj\Debug\03.DatabaseFirstGeorgraphy.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\obj\Debug\03.DatabaseFirstGeorgraphy.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Database-Applications-Entity-Framework\03.DatabaseFirstGeorgraphy\obj\Debug\03.DatabaseFirstGeorgraphy.pdb
