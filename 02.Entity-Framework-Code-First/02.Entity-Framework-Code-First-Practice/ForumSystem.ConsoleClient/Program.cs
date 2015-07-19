@@ -51,6 +51,7 @@ namespace ForumSystem.ConsoleClient
 
                 context.SaveChanges();
 
+
                 foreach (var tag in question.Tags)
                 {
                     Console.WriteLine(tag.Name);
