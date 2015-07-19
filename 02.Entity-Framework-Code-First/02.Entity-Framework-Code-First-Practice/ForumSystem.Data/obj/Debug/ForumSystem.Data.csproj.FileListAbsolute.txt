@@ -1,4 +1,5 @@
 C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\obj\Debug\ForumSystem.Data.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\obj\Debug\ForumSystem.Data.csprojResolveAssemblyReference.cache
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\bin\Debug\ForumSystem.Data.dll.config
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\bin\Debug\ForumSystem.Data.dll
@@ -11,3 +12,5 @@ D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framewor
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\obj\Debug\ForumSystem.Data.dll
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Data\obj\Debug\ForumSystem.Data.pdb
+=======
+>>>>>>> 7e9a429d204b5e1738e92259f65fadc6f48473dd

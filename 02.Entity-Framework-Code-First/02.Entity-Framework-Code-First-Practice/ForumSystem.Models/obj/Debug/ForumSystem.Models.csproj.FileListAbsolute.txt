@@ -1,6 +1,9 @@
 C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\obj\Debug\ForumSystem.Models.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\obj\Debug\ForumSystem.Models.csprojResolveAssemblyReference.cache
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\bin\Debug\ForumSystem.Models.dll
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\bin\Debug\ForumSystem.Models.pdb
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\obj\Debug\ForumSystem.Models.dll
 D:\DBApps\DatabaseApplications\02.Entity-Framework-Code-First\02.Entity-Framework-Code-First-Practice\ForumSystem.Models\obj\Debug\ForumSystem.Models.pdb
+=======
+>>>>>>> 7e9a429d204b5e1738e92259f65fadc6f48473dd
