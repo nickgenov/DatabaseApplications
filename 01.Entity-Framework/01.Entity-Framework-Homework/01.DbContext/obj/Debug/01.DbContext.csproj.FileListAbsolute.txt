@@ -1,0 +1,1 @@
+C:\Users\nikolaig\Desktop\DB_Apps\GitHubRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\01.DbContext\bin\Debug\01.DbContext.exe.config
