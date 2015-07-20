@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\SoftUniDatabaseFirst.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\SoftUniDatabaseFirst.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\SoftUniDatabaseFirst.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\obj\Debug\SoftUniDatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\obj\Debug\SoftUniDatabaseFirst.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\01.Entity-Framework\01.Entity-Framework-Homework\SoftUniDatabaseFirst\obj\Debug\SoftUniDatabaseFirst.pdb
