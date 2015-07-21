@@ -9,11 +9,22 @@ namespace ForumSystem.Models
     public class User
     {
         private ICollection<Question> questions;
+        private ICollection<Answer> answers;
+        private ICollection<User> friends; 
 
         public User()
         {
             this.questions = new HashSet<Question>();
+            this.answers = new HashSet<Answer>();
+            this.friends = new HashSet<User>();
         }
+
+        public virtual ICollection<User> Friends
+        {
+            get { return this.friends; }
+            set { this.friends = value; }
+        }
+
         [Key]
         public int Id { get; set; }
         
@@ -37,5 +48,14 @@ namespace ForumSystem.Models
             get { return this.questions; }
             set { this.questions = value; }
         }
+
+        public virtual ICollection<Answer> Answers
+        {
+            get { return this.answers; }
+            set { this.answers = value; }
+        }
+
+        [Timestamp]
+        public byte[] TimeStamp { get; set; }
     }
 }

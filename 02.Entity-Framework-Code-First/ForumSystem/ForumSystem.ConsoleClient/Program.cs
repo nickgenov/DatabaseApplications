@@ -52,6 +52,8 @@ namespace ForumSystem.ConsoleClient
                 {
                     Console.WriteLine(tag.Name);
                 }
+
+
             }
         }
     }
