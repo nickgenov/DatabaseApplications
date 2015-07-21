@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.exe.config
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.exe
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.pdb
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Data.dll
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Models.dll
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Data.pdb
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.Models.pdb
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.exe
+C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.pdb
