@@ -1,4 +1,5 @@
 using ForumSystem.Models;
+using ForumSystem.Data.Migrations;
 
 namespace ForumSystem.Data
 {
@@ -9,6 +10,7 @@ namespace ForumSystem.Data
         public ForumContext()
             : base("name=ForumContext")
         {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<ForumContext,Configuration>());
         }
 
         public virtual DbSet<User> Users { get; set; }

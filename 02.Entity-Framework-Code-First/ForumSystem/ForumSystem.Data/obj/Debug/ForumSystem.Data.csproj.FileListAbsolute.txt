@@ -10,3 +10,15 @@ C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Data\bin\Debug\EntityFramework
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.dll
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\ForumSystem.Data.dll.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\ForumSystem.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\ForumSystem.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\ForumSystem.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\ForumSystem.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Data\obj\Debug\ForumSystem.Data.pdb

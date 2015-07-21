@@ -3,3 +3,8 @@ C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Models\bin\Debug\ForumSystem.M
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.dll
 C:\Users\Nick\Desktop\OOP\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Models\bin\Debug\ForumSystem.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Models\bin\Debug\ForumSystem.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.Models\obj\Debug\ForumSystem.Models.pdb
