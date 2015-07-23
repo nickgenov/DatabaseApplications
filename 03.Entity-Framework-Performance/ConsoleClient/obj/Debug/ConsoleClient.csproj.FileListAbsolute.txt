@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\03.Entity-Framework-Performance\ConsoleClient\bin\Debug\EntityFramework.Extended.xml
