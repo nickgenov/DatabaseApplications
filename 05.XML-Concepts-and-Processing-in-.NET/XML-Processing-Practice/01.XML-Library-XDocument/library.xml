@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<library name="Developer's Library">
+	<book>
+		<title>Professional C# 4.0 and .NET 4</title>
+    <authors>
+      <author>Christian Nagel</author>
+      <author>Author 1</author>
+    </authors>
+		<isbn>978-0-470-50225-9</isbn>
+	</book>
+	<book>
+		<title>Teach Yourself XML in 10 Minutes</title>
+		<authors>
+        <author>Andrew H. Watt</author>
+        <author>Author 2</author>
+    </authors>
+		<isbn>978-0-672-32471-0</isbn>
+	</book>
+</library>

@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\03.XML-Library-Add-Book\bin\Debug\03.XML-Library-Add-Book.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\03.XML-Library-Add-Book\bin\Debug\03.XML-Library-Add-Book.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\03.XML-Library-Add-Book\bin\Debug\03.XML-Library-Add-Book.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\03.XML-Library-Add-Book\obj\Debug\03.XML-Library-Add-Book.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\03.XML-Library-Add-Book\obj\Debug\03.XML-Library-Add-Book.pdb
