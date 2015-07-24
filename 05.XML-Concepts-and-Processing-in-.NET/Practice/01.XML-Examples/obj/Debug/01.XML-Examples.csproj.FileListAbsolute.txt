@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\bin\Debug\01.XML-Examples.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\bin\Debug\01.XML-Examples.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\bin\Debug\01.XML-Examples.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\obj\Debug\01.XML-Examples.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\obj\Debug\01.XML-Examples.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Practice\01.XML-Examples\obj\Debug\01.XML-Examples.pdb

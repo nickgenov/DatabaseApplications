@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="hibernate-mapping">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="class">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="generator">
+                      <xs:complexType>
+                        <xs:attribute name="class" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="name" type="xs:string" use="required" />
+                  <xs:attribute name="column" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="property">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string" use="required" />
+                  <xs:attribute name="column" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="set">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="key">
+                      <xs:complexType>
+                        <xs:attribute name="column" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="one-to-many">
+                      <xs:complexType>
+                        <xs:attribute name="class" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="many-to-many">
+                      <xs:complexType>
+                        <xs:attribute name="class" type="xs:string" use="required" />
+                        <xs:attribute name="column" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="name" type="xs:string" use="required" />
+                  <xs:attribute name="table" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string" use="required" />
+            <xs:attribute name="table" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
