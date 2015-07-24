@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\Explicit-Transactions.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\Explicit-Transactions.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\Explicit-Transactions.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\obj\Debug\Explicit-Transactions.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\obj\Debug\Explicit-Transactions.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\obj\Debug\Explicit-Transactions.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Explicit-Transactions\bin\Debug\EntityFramework.Extended.xml

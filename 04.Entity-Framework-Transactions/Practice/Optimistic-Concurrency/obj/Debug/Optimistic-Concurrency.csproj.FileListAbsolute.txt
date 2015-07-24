@@ -1,0 +1,11 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\Optimistic-Concurrency.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\Optimistic-Concurrency.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\Optimistic-Concurrency.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\obj\Debug\Optimistic-Concurrency.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Optimistic-Concurrency\obj\Debug\Optimistic-Concurrency.pdb

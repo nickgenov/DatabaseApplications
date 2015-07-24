@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\Transactions-Example.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\Transactions-Example.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\Transactions-Example.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\obj\Debug\Transactions-Example.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\obj\Debug\Transactions-Example.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transactions-Example\obj\Debug\Transactions-Example.pdb

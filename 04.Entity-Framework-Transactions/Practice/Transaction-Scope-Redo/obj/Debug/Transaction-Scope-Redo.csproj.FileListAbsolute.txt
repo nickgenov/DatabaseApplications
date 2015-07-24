@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\Transaction-Scope-Redo.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\Transaction-Scope-Redo.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\Transaction-Scope-Redo.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\obj\Debug\Transaction-Scope-Redo.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\04.Entity-Framework-Transactions\Practice\Transaction-Scope-Redo\obj\Debug\Transaction-Scope-Redo.pdb
