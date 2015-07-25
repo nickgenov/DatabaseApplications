@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\05.XPath-Number-of-Albums\bin\Debug\05.XPath-Number-of-Albums.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\05.XPath-Number-of-Albums\bin\Debug\05.XPath-Number-of-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\05.XPath-Number-of-Albums\bin\Debug\05.XPath-Number-of-Albums.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\05.XPath-Number-of-Albums\obj\Debug\05.XPath-Number-of-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\05.XPath-Number-of-Albums\obj\Debug\05.XPath-Number-of-Albums.pdb

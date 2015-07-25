@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\10.XElement-Directory\bin\Debug\10.XElement-Directory.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\10.XElement-Directory\bin\Debug\10.XElement-Directory.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\10.XElement-Directory\bin\Debug\10.XElement-Directory.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\10.XElement-Directory\obj\Debug\10.XElement-Directory.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\10.XElement-Directory\obj\Debug\10.XElement-Directory.pdb

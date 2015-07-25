@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\07.Old-Albums\bin\Debug\07.Old-Albums.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\07.Old-Albums\bin\Debug\07.Old-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\07.Old-Albums\bin\Debug\07.Old-Albums.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\07.Old-Albums\obj\Debug\07.Old-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\07.Old-Albums\obj\Debug\07.Old-Albums.pdb

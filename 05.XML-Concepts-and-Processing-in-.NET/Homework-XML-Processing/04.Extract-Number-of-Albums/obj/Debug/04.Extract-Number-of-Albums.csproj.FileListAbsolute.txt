@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\04.Extract-Number-of-Albums\bin\Debug\04.Extract-Number-of-Albums.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\04.Extract-Number-of-Albums\bin\Debug\04.Extract-Number-of-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\04.Extract-Number-of-Albums\bin\Debug\04.Extract-Number-of-Albums.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\04.Extract-Number-of-Albums\obj\Debug\04.Extract-Number-of-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\04.Extract-Number-of-Albums\obj\Debug\04.Extract-Number-of-Albums.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\06.Delete-Albums\bin\Debug\06.Delete-Albums.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\06.Delete-Albums\bin\Debug\06.Delete-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\06.Delete-Albums\bin\Debug\06.Delete-Albums.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\06.Delete-Albums\obj\Debug\06.Delete-Albums.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\06.Delete-Albums\obj\Debug\06.Delete-Albums.pdb

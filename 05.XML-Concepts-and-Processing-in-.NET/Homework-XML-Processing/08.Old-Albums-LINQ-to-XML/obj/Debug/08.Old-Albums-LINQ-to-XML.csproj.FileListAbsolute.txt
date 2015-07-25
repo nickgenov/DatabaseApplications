@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\08.Old-Albums-LINQ-to-XML\bin\Debug\08.Old-Albums-LINQ-to-XML.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\08.Old-Albums-LINQ-to-XML\bin\Debug\08.Old-Albums-LINQ-to-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\08.Old-Albums-LINQ-to-XML\bin\Debug\08.Old-Albums-LINQ-to-XML.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\08.Old-Albums-LINQ-to-XML\obj\Debug\08.Old-Albums-LINQ-to-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\Homework-XML-Processing\08.Old-Albums-LINQ-to-XML\obj\Debug\08.Old-Albums-LINQ-to-XML.pdb

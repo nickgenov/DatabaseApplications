@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<albums culture="en-US">
+	<album>
+		<name>The King of Limbs</name>
+		<artist>Radiohead</artist>
+		<year>2011</year>
+		<producer>Nigel Godrich</producer>
+		<price>29.99</price>
+		<songs>
+			<song>
+				<title>Bloom</title>
+				<duration>5:15</duration>
+			</song>
+			<song>
+				<title>Codex</title>
+				<duration>4:35</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Give Up the Ghost</title>
+				<duration>4:50</duration>
+			</song>
+			<song>
+				<title>Separator</title>
+				<duration>5:20</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>OK Computer</name>
+		<artist>Radiohead</artist>
+		<year>1997</year>
+		<producer>Capitol Records</producer>
+		<price>19.99</price>
+		<songs>
+			<song>
+				<title>Airbag</title>
+				<duration>4:44</duration>
+			</song>
+			<song>
+				<title>Paranoid Android</title>
+				<duration>6:23</duration>
+			</song>
+			<song>
+				<title>Subterranean Homesick Alien</title>
+				<duration>4:27</duration>
+			</song>
+			<song>
+				<title>Exit Music (For a Film)</title>
+				<duration>4:24</duration>
+			</song>
+			<song>
+				<title>Let Down</title>
+				<duration>4:59</duration>
+			</song>
+			<song>
+				<title>Karma Police</title>
+				<duration>4:21</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>All That You Can't Leave Behind</name>
+		<artist>U2</artist>
+		<year>2000</year>
+		<producer>Daniel Lanois</producer>
+		<price>23.99</price>
+		<songs>
+			<song>
+				<title>Beautiful Day</title>
+				<duration>4:06</duration>
+			</song>
+			<song>
+				<title>Stuck in a Moment You Can't Get Out Of</title>
+				<duration>4:32</duration>
+			</song>
+			<song>
+				<title>Elevation</title>
+				<duration>3:45</duration>
+			</song>
+			<song>
+				<title>Walk On</title>
+				<duration>4:55</duration>
+			</song>
+			<song>
+				<title>Kite</title>
+				<duration>4:23</duration>
+			</song>
+			<song>
+				<title>In a Little While</title>
+				<duration>3:39</duration>
+			</song>
+			<song>
+				<title>Wild Honey</title>
+				<duration>3:47</duration>
+			</song>
+			<song>
+				<title>Peace on Earth</title>
+				<duration>4:46</duration>
+			</song>
+			<song>
+				<title>When I Look at the World</title>
+				<duration>4:15</duration>
+			</song>
+			<song>
+				<title>New York</title>
+				<duration>5:28</duration>
+			</song>
+			<song>
+				<title>Grace</title>
+				<duration>5:31</duration>
+			</song>			
+		</songs>
+	</album>
+	<album>
+		<name>Ray of Light</name>
+		<artist>Madonna</artist>
+		<year>1998</year>
+		<producer>Madonna, William Orbit</producer>
+		<price>27.99</price>
+		<songs>
+			<song>
+				<title>Substitute for Love</title>
+				<duration>5:09</duration>
+			</song>
+			<song>
+				<title>Swim</title>
+				<duration>5:00</duration>
+			</song>
+			<song>
+				<title>Ray of Light</title>
+				<duration>5:21</duration>
+			</song>
+			<song>
+				<title>Candy Perfume Girl</title>
+				<duration>4:34</duration>
+			</song>
+			<song>
+				<title>Skin</title>
+				<duration>4:23</duration>
+			</song>
+			<song>
+				<title>Nothing Really Matters</title>
+				<duration>6:22</duration>
+			</song>
+			<song>
+				<title>Sky Fits Heaven</title>
+				<duration>4:27</duration>
+			</song>
+			<song>
+				<title>Peace on Earth</title>
+				<duration>4:48</duration>
+			</song>
+			<song>
+				<title>Shanti</title>
+				<duration>4:29</duration>
+			</song>
+			<song>
+				<title>Frozen</title>
+				<duration>6:12</duration>
+			</song>
+			<song>
+				<title>Little Star</title>
+				<duration>4:10</duration>
+			</song>			
+		</songs>
+	</album>
+</albums>
