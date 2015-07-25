@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\15.LINQ-Create-XML-XElement\bin\Debug\15.LINQ-Create-XML-XElement.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\15.LINQ-Create-XML-XElement\bin\Debug\15.LINQ-Create-XML-XElement.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\15.LINQ-Create-XML-XElement\bin\Debug\15.LINQ-Create-XML-XElement.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\15.LINQ-Create-XML-XElement\obj\Debug\15.LINQ-Create-XML-XElement.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\15.LINQ-Create-XML-XElement\obj\Debug\15.LINQ-Create-XML-XElement.pdb

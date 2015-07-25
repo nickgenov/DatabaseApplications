@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\bin\Debug\05.DOM-Parser.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\bin\Debug\05.DOM-Parser.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\bin\Debug\05.DOM-Parser.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\obj\Debug\05.DOM-Parser.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\obj\Debug\05.DOM-Parser.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\05.DOM-Parser\obj\Debug\05.DOM-Parser.pdb

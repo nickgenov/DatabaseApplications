@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\06.DOM-Parser-2\bin\Debug\06.DOM-Parser-2.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\06.DOM-Parser-2\bin\Debug\06.DOM-Parser-2.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\06.DOM-Parser-2\bin\Debug\06.DOM-Parser-2.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\06.DOM-Parser-2\obj\Debug\06.DOM-Parser-2.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\06.DOM-Parser-2\obj\Debug\06.DOM-Parser-2.pdb

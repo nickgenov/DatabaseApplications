@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<students xmlns="urn:students" name="Students information">
+	<student>
+		<name>Petar Petrov</name>
+		<gender>male</gender>
+		<birth-date>1986-07-24</birth-date>
+		<phone-number>0885 256 245</phone-number>
+		<email>petar.petrov@gmail.com</email>
+		<university>Soft Uni</university>
+		<specialty>Software Engineering</specialty>
+		<faculty-number>263578</faculty-number>
+		<exams>
+			<exam>
+				<exam-name>Object Oriented Programming</exam-name>
+				<date-taken>2015-03-15</date-taken>
+				<grade>6</grade>
+			</exam>
+			<exam>
+				<exam-name>High Quality Code</exam-name>
+				<date-taken>2015-04-30</date-taken>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam-name>Databases</exam-name>
+				<date-taken>2015-07-12</date-taken>
+				<grade>6</grade>
+			</exam>
+		</exams>
+		<endorsements>
+			<author>Atanas Rusenov</author>
+			<author-email>nasko.rusenov@softuni.bg</author-email>
+			<endorsement-date>2015-03-20</endorsement-date>
+			<endorsement-text>The student has placed in the top 10% in the OOP course</endorsement-text>
+		</endorsements>
+	</student>
+	<student>
+		<name>Marina Pavlova</name>
+		<gender>female</gender>
+		<birth-date>1989-10-12</birth-date>
+		<phone-number>0887 277 685</phone-number>
+		<email>m.pavlova@gmail.com</email>
+		<university>Soft Uni</university>
+		<specialty>software engineering</specialty>
+		<faculty-number>2056258</faculty-number>
+		<exams>
+			<exam>
+				<exam-name>Programming Basics</exam-name>
+				<date-taken>2014-12-19</date-taken>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam-name>Java Basics</exam-name>
+				<date-taken>2015-02-08</date-taken>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam-name>JavaScript Basics</exam-name>
+				<date-taken>2015-04-02</date-taken>
+				<grade>4</grade>
+			</exam>
+			<exam>
+				<exam-name>Advanced C#</exam-name>
+				<date-taken>2015-05-31</date-taken>
+				<grade>4</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Stanimir Kolev</name>
+		<gender>male</gender>
+		<birth-date>1988-06-19</birth-date>
+		<phone-number>0884 865 633</phone-number>
+		<email>stanimir.kolev@gmail.com</email>
+		<university>Soft Uni</university>
+		<specialty>software engineering</specialty>
+		<faculty-number>2068698</faculty-number>
+		<exams>
+			<exam>
+				<exam-name>Programming Basics</exam-name>
+				<date-taken>2014-12-19</date-taken>
+				<grade>4</grade>
+			</exam>
+			<exam>
+				<exam-name>Java Basics</exam-name>
+				<date-taken>2015-02-08</date-taken>
+				<grade>4</grade>
+			</exam>
+			<exam>
+				<exam-name>JavaScript Basics</exam-name>
+				<date-taken>2015-04-02</date-taken>
+				<grade>3</grade>
+			</exam>
+			<exam>
+				<exam-name>Advanced C#</exam-name>
+				<date-taken>2015-05-31</date-taken>
+				<grade>5</grade>
+			</exam>
+		</exams>
+	</student>
+</students>

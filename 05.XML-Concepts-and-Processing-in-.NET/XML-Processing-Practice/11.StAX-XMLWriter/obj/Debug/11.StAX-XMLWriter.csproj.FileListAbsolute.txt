@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\11.StAX-XMLWriter\bin\Debug\11.StAX-XMLWriter.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\11.StAX-XMLWriter\bin\Debug\11.StAX-XMLWriter.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\11.StAX-XMLWriter\bin\Debug\11.StAX-XMLWriter.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\11.StAX-XMLWriter\obj\Debug\11.StAX-XMLWriter.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\11.StAX-XMLWriter\obj\Debug\11.StAX-XMLWriter.pdb

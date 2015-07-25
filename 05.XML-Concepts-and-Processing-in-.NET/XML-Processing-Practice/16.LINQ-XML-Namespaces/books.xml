@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://bookstore.org">
+  <book xmlns="http://linqinaction.net">
+    <title>LINQ in Action</title>
+    <author>Manning</author>
+    <author>Steve Eichert</author>
+    <author>Jim Wooley</author>
+    <publisher xmlns="http://www.w3c.org/xml">Manning</publisher>
+  </book>
+  <book xmlns="http://linqinaction.net">
+    <title>XML for Dummies</title>
+    <author>Manning</author>
+    <author>Steve Eichert</author>
+    <author>Jim Wooley</author>
+    <publisher xmlns="http://www.w3c.org/xml">Manning</publisher>
+  </book>
+</books>

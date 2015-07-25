@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\bin\Debug\16.LINQ-XML-Namespaces.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\bin\Debug\16.LINQ-XML-Namespaces.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\bin\Debug\16.LINQ-XML-Namespaces.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\obj\Debug\16.LINQ-XML-Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\obj\Debug\16.LINQ-XML-Namespaces.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\16.LINQ-XML-Namespaces\obj\Debug\16.LINQ-XML-Namespaces.pdb

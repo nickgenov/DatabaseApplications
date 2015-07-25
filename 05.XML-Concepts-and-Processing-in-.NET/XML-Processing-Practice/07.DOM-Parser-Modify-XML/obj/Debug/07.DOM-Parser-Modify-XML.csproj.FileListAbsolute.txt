@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\07.DOM-Parser-Modify-XML\bin\Debug\07.DOM-Parser-Modify-XML.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\07.DOM-Parser-Modify-XML\bin\Debug\07.DOM-Parser-Modify-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\07.DOM-Parser-Modify-XML\bin\Debug\07.DOM-Parser-Modify-XML.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\07.DOM-Parser-Modify-XML\obj\Debug\07.DOM-Parser-Modify-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\07.DOM-Parser-Modify-XML\obj\Debug\07.DOM-Parser-Modify-XML.pdb

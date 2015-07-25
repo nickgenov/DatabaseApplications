@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <author>James Clavell</author>
+    <title>Shogun</title>
+  </book>
+  <book classics="adventure novels">
+    <title>Tai Pan</title>
+    <author>James Clavell</author>
+  </book>
+  <book>
+    <title>Martin Eden</title>
+    <author>Jack London</author>
+  </book>
+</books>

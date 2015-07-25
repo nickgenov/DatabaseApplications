@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\bin\Debug\10.StAX-XMLReader.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\bin\Debug\10.StAX-XMLReader.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\bin\Debug\10.StAX-XMLReader.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\obj\Debug\10.StAX-XMLReader.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\obj\Debug\10.StAX-XMLReader.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\05.XML-Concepts-and-Processing-in-.NET\XML-Processing-Practice\10.StAX-XMLReader\obj\Debug\10.StAX-XMLReader.pdb

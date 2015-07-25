@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<library name="Developer's Library" address="Tintyava 15-17">
+  <book>
+    <title>Professional C# 4.0 and .NET 4</title>
+    <author>Christian Nagel</author>
+    <isbn>978-0-470-50225-9</isbn>
+    <price>30.00</price>
+  </book>
+  <book>
+    <title>Teach Yourself XML in 10 Minutes</title>
+    <author>Andrew H. Watt</author>
+    <isbn>978-0-672-32471-0</isbn>
+    <price>16.00</price>
+  </book>
+  <book>
+    <title>Intro Programming - C#</title>
+    <author>Svetlin Nakov</author>
+    <isbn>445-0-525-68521-0</isbn>
+    <price>10.00</price>
+  </book>
+  <book>
+    <title>Shogun</title>
+    <author>James Clavell</author>
+    <isbn>445-0-525-68521-0</isbn>
+    <price>15.00</price>
+  </book>
+</library>
