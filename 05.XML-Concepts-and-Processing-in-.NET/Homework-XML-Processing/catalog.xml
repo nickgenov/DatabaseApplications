@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<albums culture="en-US">
+	<album>
+		<name>The King of Limbs</name>
+		<artist>Radiohead</artist>
+		<year>2011</year>
+		<producer>Nigel Godrich</producer>
+		<price>29.99</price>
+		<songs>
+			<song>
+				<title>Bloom</title>
+				<duration>5:15</duration>
+			</song>
+			<song>
+				<title>Codex</title>
+				<duration>4:35</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Give Up the Ghost</title>
+				<duration>4:50</duration>
+			</song>
+			<song>
+				<title>Separator</title>
+				<duration>5:20</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>OK Computer</name>
+		<artist>Radiohead</artist>
+		<year>1997</year>
+		<producer>Capitol Records</producer>
+		<price>19.99</price>
+		<songs>
+			<song>
+				<title>Airbag</title>
+				<duration>4:44</duration>
+			</song>
+			<song>
+				<title>Paranoid Android</title>
+				<duration>6:23</duration>
+			</song>
+			<song>
+				<title>Subterranean Homesick Alien</title>
+				<duration>4:27</duration>
+			</song>
+			<song>
+				<title>Exit Music (For a Film)</title>
+				<duration>4:24</duration>
+			</song>
+			<song>
+				<title>Let Down</title>
+				<duration>4:59</duration>
+			</song>
+			<song>
+				<title>Karma Police</title>
+				<duration>4:21</duration>
+			</song>
+		</songs>
+	</album>
+</albums>
