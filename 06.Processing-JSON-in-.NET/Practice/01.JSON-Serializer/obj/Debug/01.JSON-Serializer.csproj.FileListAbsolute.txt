@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\bin\Debug\01.JSON-Serializer.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\bin\Debug\01.JSON-Serializer.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\bin\Debug\01.JSON-Serializer.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\obj\Debug\01.JSON-Serializer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\obj\Debug\01.JSON-Serializer.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\01.JSON-Serializer\obj\Debug\01.JSON-Serializer.pdb

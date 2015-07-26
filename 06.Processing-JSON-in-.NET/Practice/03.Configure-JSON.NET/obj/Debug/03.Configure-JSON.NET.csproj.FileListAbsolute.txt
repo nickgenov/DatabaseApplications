@@ -1,0 +1,8 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\bin\Debug\03.Configure-JSON.NET.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\bin\Debug\03.Configure-JSON.NET.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\bin\Debug\03.Configure-JSON.NET.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\obj\Debug\03.Configure-JSON.NET.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\obj\Debug\03.Configure-JSON.NET.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\03.Configure-JSON.NET\obj\Debug\03.Configure-JSON.NET.csprojResolveAssemblyReference.cache

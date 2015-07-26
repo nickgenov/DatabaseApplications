@@ -1,0 +1,8 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\bin\Debug\04.LINQ-to-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\bin\Debug\04.LINQ-to-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\bin\Debug\04.LINQ-to-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\obj\Debug\04.LINQ-to-JSON.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\obj\Debug\04.LINQ-to-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Practice\04.LINQ-to-JSON\obj\Debug\04.LINQ-to-JSON.pdb

@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.JSON-Serializer", "01.JSON-Serializer\01.JSON-Serializer.csproj", "{D8AC5452-7075-43B9-ACFD-629FF73A2BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JSON.NET", "02.JSON.NET\02.JSON.NET.csproj", "{9FC3A02F-C66E-45C0-9EBD-734E128BE223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Configure-JSON.NET", "03.Configure-JSON.NET\03.Configure-JSON.NET.csproj", "{9DC7D9A8-FCFF-4A49-A410-EB76F3A3C3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LINQ-to-JSON", "04.LINQ-to-JSON\04.LINQ-to-JSON.csproj", "{349AC25E-8C9B-4EEA-BC5D-EB8A04AEF8A8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8AC5452-7075-43B9-ACFD-629FF73A2BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AC5452-7075-43B9-ACFD-629FF73A2BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AC5452-7075-43B9-ACFD-629FF73A2BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AC5452-7075-43B9-ACFD-629FF73A2BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC3A02F-C66E-45C0-9EBD-734E128BE223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC3A02F-C66E-45C0-9EBD-734E128BE223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC3A02F-C66E-45C0-9EBD-734E128BE223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC3A02F-C66E-45C0-9EBD-734E128BE223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC7D9A8-FCFF-4A49-A410-EB76F3A3C3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC7D9A8-FCFF-4A49-A410-EB76F3A3C3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC7D9A8-FCFF-4A49-A410-EB76F3A3C3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC7D9A8-FCFF-4A49-A410-EB76F3A3C3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349AC25E-8C9B-4EEA-BC5D-EB8A04AEF8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349AC25E-8C9B-4EEA-BC5D-EB8A04AEF8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349AC25E-8C9B-4EEA-BC5D-EB8A04AEF8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349AC25E-8C9B-4EEA-BC5D-EB8A04AEF8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
