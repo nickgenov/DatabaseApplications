@@ -40,3 +40,6 @@ C:\Users\Nick\Desktop\Homework-nick.genov-Entity Framework Code First (1)\Studen
 C:\Users\Nick\Desktop\Homework-nick.genov-Entity Framework Code First (1)\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
 C:\Users\Nick\Desktop\Homework-nick.genov-Entity Framework Code First (1)\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Nick\Desktop\Homework-nick.genov-Entity Framework Code First (1)\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\StudentSystem-Homework\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\StudentSystem-Homework\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\StudentSystem-Homework\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
