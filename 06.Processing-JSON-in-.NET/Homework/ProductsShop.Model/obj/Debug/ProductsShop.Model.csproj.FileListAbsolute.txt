@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.Model\bin\Debug\ProductsShop.Model.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.Model\bin\Debug\ProductsShop.Model.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.Model\obj\Debug\ProductsShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.Model\obj\Debug\ProductsShop.Model.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.Model\obj\Debug\ProductsShop.Model.pdb

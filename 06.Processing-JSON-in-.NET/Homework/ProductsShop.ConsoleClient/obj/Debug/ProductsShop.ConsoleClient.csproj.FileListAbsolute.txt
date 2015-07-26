@@ -1,0 +1,16 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.ConsoleClient.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Model.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\ProductsShop.Model.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\06.Processing-JSON-in-.NET\Homework\ProductsShop.ConsoleClient\obj\Debug\ProductsShop.ConsoleClient.pdb
