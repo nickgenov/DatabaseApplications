@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Excercise-Book-Shop\BookShop.Models\bin\Debug\BookShop.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Excercise-Book-Shop\BookShop.Models\bin\Debug\BookShop.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Excercise-Book-Shop\BookShop.Models\obj\Debug\BookShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Excercise-Book-Shop\BookShop.Models\obj\Debug\BookShop.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Excercise-Book-Shop\BookShop.Models\obj\Debug\BookShop.Models.pdb
