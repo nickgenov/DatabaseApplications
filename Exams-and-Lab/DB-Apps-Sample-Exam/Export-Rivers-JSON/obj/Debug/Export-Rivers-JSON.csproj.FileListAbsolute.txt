@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\Export-Rivers-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\Export-Rivers-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\Export-Rivers-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EF-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EF-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\obj\Debug\Export-Rivers-JSON.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\obj\Debug\Export-Rivers-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\obj\Debug\Export-Rivers-JSON.pdb

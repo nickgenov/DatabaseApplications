@@ -1,0 +1,3 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\bin\Debug\Export-Rivers-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\obj\Debug\Export-Rivers-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Export-Rivers-JSON\obj\Debug\Export-Rivers-JSON.pdb
