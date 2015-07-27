@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\Import-Rivers-XML.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\Import-Rivers-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\Import-Rivers-XML.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EF-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EF-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\obj\Debug\4.Import-Rivers-XML.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\obj\Debug\Import-Rivers-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Import-Rivers-XML\obj\Debug\Import-Rivers-XML.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\Rivers-By-Country-Query.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\Rivers-By-Country-Query.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\Rivers-By-Country-Query.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EF-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EF-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\obj\Debug\5.Rivers-By-Country-Query.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\obj\Debug\Rivers-By-Country-Query.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\Rivers-By-Country-Query\obj\Debug\Rivers-By-Country-Query.pdb

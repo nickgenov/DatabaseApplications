@@ -1,0 +1,3 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\EF-Mappings\obj\Debug\EF-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Sample-Exam\EF-Mappings\obj\Debug\EF-Mappings.pdb
