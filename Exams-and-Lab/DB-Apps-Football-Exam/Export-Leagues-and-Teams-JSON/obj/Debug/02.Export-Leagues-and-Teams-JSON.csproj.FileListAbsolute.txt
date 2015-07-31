@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\Export-Leagues-and-Teams-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\obj\Debug\Export-Leagues-and-Teams-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\obj\Debug\Export-Leagues-and-Teams-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\Export-Leagues-and-Teams-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\Export-Leagues-and-Teams-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EF-Football-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EF-Football-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Export-Leagues-and-Teams-JSON\obj\Debug\02.Export-Leagues-and-Teams-JSON.csprojResolveAssemblyReference.cache

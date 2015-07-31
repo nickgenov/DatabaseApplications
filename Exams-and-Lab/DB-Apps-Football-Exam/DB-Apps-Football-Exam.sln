@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EF-Football-Mappings", "EF-Football-Mappings\01.EF-Football-Mappings.csproj", "{2300C87B-2940-4FE0-8757-69473CCF7EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Export-Leagues-and-Teams-JSON", "Export-Leagues-and-Teams-JSON\02.Export-Leagues-and-Teams-JSON.csproj", "{A346F2C2-E128-45E5-B3EB-A90B1D865764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.International-Matches-XML", "International-Matches-XML\03.International-Matches-XML.csproj", "{AD9E77DB-9C7D-44C8-9D7D-D6E2E63575B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2300C87B-2940-4FE0-8757-69473CCF7EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2300C87B-2940-4FE0-8757-69473CCF7EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2300C87B-2940-4FE0-8757-69473CCF7EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2300C87B-2940-4FE0-8757-69473CCF7EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A346F2C2-E128-45E5-B3EB-A90B1D865764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A346F2C2-E128-45E5-B3EB-A90B1D865764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A346F2C2-E128-45E5-B3EB-A90B1D865764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A346F2C2-E128-45E5-B3EB-A90B1D865764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9E77DB-9C7D-44C8-9D7D-D6E2E63575B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9E77DB-9C7D-44C8-9D7D-D6E2E63575B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9E77DB-9C7D-44C8-9D7D-D6E2E63575B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9E77DB-9C7D-44C8-9D7D-D6E2E63575B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\International-Matches-XML.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\International-Matches-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\International-Matches-XML.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EF-Football-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EF-Football-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\obj\Debug\03.International-Matches-XML.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\obj\Debug\International-Matches-XML.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\International-Matches-XML\obj\Debug\International-Matches-XML.pdb
