@@ -26,3 +26,6 @@ C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Co
 C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.xml
 C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem-Live-Demo\ForumSystem.ConsoleClient\bin\Debug\ForumSystem.ConsoleClient.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem-Live-Demo\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\02.Entity-Framework-Code-First\ForumSystem-Live-Demo\ForumSystem.ConsoleClient\obj\Debug\ForumSystem.ConsoleClient.pdb
