@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EF-Code-First.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\obj\Debug\6. EF-Code-First.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\Exam-Photography\Photography-Author-Solution\EF-Code-First\obj\Debug\EF-Code-First.pdb

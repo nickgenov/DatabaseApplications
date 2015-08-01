@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\Export-Manufacturers-Cameras-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\Export-Manufacturers-Cameras-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\Export-Manufacturers-Cameras-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EF-Mappings.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EF-Mappings.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\obj\Debug\02.Export-Manufacturers-Cameras-JSON.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\obj\Debug\Export-Manufacturers-Cameras-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Photography-Exam\Export-Manufacturers-Cameras-JSON\obj\Debug\Export-Manufacturers-Cameras-JSON.pdb
