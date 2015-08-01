@@ -1,0 +1,3 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Client\bin\Debug\Phonebook.Client.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Client\obj\Debug\Phonebook.Client.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Client\obj\Debug\Phonebook.Client.pdb

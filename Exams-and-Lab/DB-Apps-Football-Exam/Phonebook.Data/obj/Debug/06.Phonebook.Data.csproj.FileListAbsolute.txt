@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\Phonebook.Data.dll.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\Phonebook.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\Phonebook.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\Phonebook.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\Phonebook.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\obj\Debug\06.Phonebook.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\obj\Debug\Phonebook.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Phonebook.Data\obj\Debug\Phonebook.Data.pdb

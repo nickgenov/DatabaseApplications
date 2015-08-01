@@ -1,0 +1,16 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Import-Contacts-JSON.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Import-Contacts-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Import-Contacts-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Phonebook.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Phonebook.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Phonebook.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Phonebook.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\obj\Debug\07.Import-Contacts-JSON.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\obj\Debug\Import-Contacts-JSON.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\obj\Debug\Import-Contacts-JSON.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Exams-and-Lab\DB-Apps-Football-Exam\Import-Contacts-JSON\bin\Debug\Newtonsoft.Json.xml
