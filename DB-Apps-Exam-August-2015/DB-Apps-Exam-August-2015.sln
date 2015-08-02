@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EF-Mappings", "EF-Mappings\01.EF-Mappings.csproj", "{3434B2AC-9592-4929-A9AC-9354EF9CC38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Export-Characters-And-Players-JSON", "Export-Characters-And-Players-JSON\02.Export-Characters-And-Players-JSON.csproj", "{50430657-B195-4562-AB87-D7C75E355FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Export-Finished-Games-XML", "Export-Finished-Games-XML\03.Export-Finished-Games-XML.csproj", "{30505937-7459-4EFA-BE96-79C387B521A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Import-Users-And-Their-Games-XML", "Import-Users-And-Their-Games-XML\04.Import-Users-And-Their-Games-XML.csproj", "{79A72630-E200-46CF-8500-F3229FD4D7F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.EF-Code-First-Movies", "EF-Code-First-Movies\05.EF-Code-First-Movies.csproj", "{37B9FAC0-3AEC-48BC-AE04-469BA66B4B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Code-First-Query-Database", "Code-First-Query-Database\06.Code-First-Query-Database.csproj", "{45836327-85C0-430D-B2B3-9CBC3070CCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3434B2AC-9592-4929-A9AC-9354EF9CC38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3434B2AC-9592-4929-A9AC-9354EF9CC38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3434B2AC-9592-4929-A9AC-9354EF9CC38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3434B2AC-9592-4929-A9AC-9354EF9CC38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50430657-B195-4562-AB87-D7C75E355FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50430657-B195-4562-AB87-D7C75E355FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50430657-B195-4562-AB87-D7C75E355FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50430657-B195-4562-AB87-D7C75E355FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30505937-7459-4EFA-BE96-79C387B521A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30505937-7459-4EFA-BE96-79C387B521A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30505937-7459-4EFA-BE96-79C387B521A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30505937-7459-4EFA-BE96-79C387B521A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A72630-E200-46CF-8500-F3229FD4D7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A72630-E200-46CF-8500-F3229FD4D7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A72630-E200-46CF-8500-F3229FD4D7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A72630-E200-46CF-8500-F3229FD4D7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B9FAC0-3AEC-48BC-AE04-469BA66B4B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9FAC0-3AEC-48BC-AE04-469BA66B4B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9FAC0-3AEC-48BC-AE04-469BA66B4B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9FAC0-3AEC-48BC-AE04-469BA66B4B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45836327-85C0-430D-B2B3-9CBC3070CCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45836327-85C0-430D-B2B3-9CBC3070CCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45836327-85C0-430D-B2B3-9CBC3070CCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45836327-85C0-430D-B2B3-9CBC3070CCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
